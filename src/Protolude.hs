@@ -44,6 +44,7 @@ import Protolude.Conv as X
 import Protolude.Panic as X
 import Protolude.Exceptions as X
 import Protolude.Semiring as X
+import Protolude.JSON as X
 
 import Protolude.Base as Base hiding (
     putStr           -- Overriden by Show.putStr
