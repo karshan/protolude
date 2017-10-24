@@ -1,6 +1,6 @@
 module Protolude.JSON
-    ( decode
-    , encode) where
+    ( decodeJSON
+    , encodeJSON) where
 
 import           Data.Aeson
 import           Data.Either    (Either (..), either)
